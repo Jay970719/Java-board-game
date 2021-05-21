@@ -6,7 +6,7 @@
 //when the user meet the ladder, it can go up to the higher place
 //and when they meet the snake, they are going down to the lower place.
 //The player who reaches 100th box wins the game. 
-//Players who have the highest number of dice will start the game.
+//Players who have the highest number of dice will start the game..
 //-------------------------------------------------------------
 
 import java.util.Scanner;
